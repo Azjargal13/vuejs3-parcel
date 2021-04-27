@@ -1,5 +1,8 @@
 # vue3-sample
 
+for parcel compiler latest version 2 can work seamlessly with vuejs3.
+
+need to create postcssrc for parcel, css config.
 ## Project setup
 ```
 npm install
